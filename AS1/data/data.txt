@@ -1,0 +1,6 @@
+# CIFAR10
+https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
+# spam
+https://archive.ics.uci.edu/ml/machine-learning-databases/spambase/spambase.data
+# community
+http://archive.ics.uci.edu/ml/machine-learning-databases/communities/communities.data
