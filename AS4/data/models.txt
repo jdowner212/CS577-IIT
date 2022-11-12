@@ -1,0 +1,17 @@
+# shared drive:
+google_drive_folder        = 'https://drive.google.com/drive/folders/1ZX6NEp1d4R4q5_Q-Q2ezs3UkRAfOHW1t'
+
+# data:
+cats_dogs_data_url         = 'https://drive.google.com/file/d/1ztnDOD6dw90iGfS8m2vh4-88cXsPAXvR/view?usp=share_link'
+cifar_data_url             = 'https://drive.google.com/drive/folders/1Wow3Ut8emigYS-_EJAgwUl-8jUnZkBkp?usp=share_link'
+
+# cat/dog models:
+cats_dogs_basic_cnn_url    = 'https://drive.google.com/file/d/1_4q2pE8go_xwm-4yXYArSESDeWoyyETx/view?usp=share_link'
+cats_dogs_frozen_vgg_url   = 'https://drive.google.com/file/d/1_06f0cGdpBLPhFyLuE87zVF5hfbteqWU/view?usp=share_link'
+cats_dogs_vgg_finetune_url = 'https://drive.google.com/file/d/13zMz1VyhM2eWPHKctqWnMwJ0cVde3Y3L/view?usp=share_link'
+cats_dogs_data_augment_url = 'https://drive.google.com/file/d/1nsYcTD_Lwzjii8nO6jV4CL3wCzAw9ZBM/view?usp=share_link'
+
+# cifar models:
+cifar_basic_cnn_url        = 'https://drive.google.com/file/d/1S_hzExHbiwPe3lRRSEmeR7_D2Nhzihtc/view?usp=share_link'
+cifar_inception_url        = 'https://drive.google.com/file/d/1dkSYU7NeEosfIYMKdBcP0hvuXvb1RZbr/view?usp=share_link'
+cifar_residual_url         = 'https://drive.google.com/file/d/1WmXVuMjsyf4TVfvJfqfnqDVyUO1xz1G7/view?usp=share_link'
